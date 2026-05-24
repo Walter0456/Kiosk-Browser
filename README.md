@@ -1,4 +1,4 @@
-﻿# OmniKiosk Browser
+﻿# Kiosk Browser
 
 A secure Android kiosk browser built for tablets and dedicated display devices.
 
